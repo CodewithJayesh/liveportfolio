@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/liveportfolio/static/css/main.5f698046.css",
+    "main.js": "/liveportfolio/static/js/main.354ebd40.js",
+    "static/media/cv.pdf": "/liveportfolio/static/media/cv.de346d83eb00eb720832.pdf",
+    "static/media/me.png": "/liveportfolio/static/media/me.d7fb0ca19ce546aee984.png",
+    "static/media/Ashish.jpg": "/liveportfolio/static/media/Ashish.67d6baeeaf73244586b5.jpg",
+    "static/media/Nitish.jpg": "/liveportfolio/static/media/Nitish.723c50a6277cdd60aace.jpg",
+    "static/media/Pratik.jpeg": "/liveportfolio/static/media/Pratik.b77afe6298a65f60dc55.jpeg",
+    "static/media/portfolio2.jpg": "/liveportfolio/static/media/portfolio2.d781b12b80d64d9dc48e.jpg",
+    "static/media/portfolio3.jpg": "/liveportfolio/static/media/portfolio3.04ff38e8064d5061183b.jpg",
+    "static/media/Prince.jpeg": "/liveportfolio/static/media/Prince.e81aef0b1874678faa31.jpeg",
+    "static/media/portfolio4.jpg": "/liveportfolio/static/media/portfolio4.ff635bb090e0067cb49b.jpg",
+    "static/media/portfolio6.jpg": "/liveportfolio/static/media/portfolio6.1bed010a57ec6d90edbf.jpg",
+    "static/media/portfolio5.jpg": "/liveportfolio/static/media/portfolio5.9b9c888ffe7805358563.jpg",
+    "static/media/portfolio1.jpg": "/liveportfolio/static/media/portfolio1.a91f8688deb0a1de5fd8.jpg",
+    "index.html": "/liveportfolio/index.html",
+    "main.5f698046.css.map": "/liveportfolio/static/css/main.5f698046.css.map",
+    "main.354ebd40.js.map": "/liveportfolio/static/js/main.354ebd40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f698046.css",
+    "static/js/main.354ebd40.js"
+  ]
+}
